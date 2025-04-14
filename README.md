@@ -1,5 +1,11 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Language" content="ar">
+    <meta http-equiv="Content-Direction" content="rtl">
+  </head>
+  <body>
+
 # AN Library
-================
 
 AN Library هي مكتبة مفتوحة المصدر مصممة لتعزيز كفاءة الكود والسهولة في إنشاء تطبيقات الكونسول.
 ___

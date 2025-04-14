@@ -5,7 +5,7 @@
   </head>
   <body>
 
-# AN | Library Console
+# AN | C# Console Library
 
 AN Library هي مكتبة مفتوحة المصدر مصممة لتعزيز كفاءة الكود والسهولة في إنشاء تطبيقات الكونسول.
 ___

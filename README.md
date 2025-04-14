@@ -5,7 +5,7 @@
   </head>
   <body>
 
-# AN Library
+# AN | Library Console
 
 AN Library هي مكتبة مفتوحة المصدر مصممة لتعزيز كفاءة الكود والسهولة في إنشاء تطبيقات الكونسول.
 ___

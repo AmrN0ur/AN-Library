@@ -28,5 +28,10 @@ ___
 
 ### التثبيت
 
+1- 
 ```bash
-pip install AN-Library
+git clone https://github.com/AmrN0ur/AN-Library.git
+```
+2- قم بعمل Compile للمكتبه بعد تعديل ما تريد
+3- انقل ملف ال dll من ال مجلد ال bin الى المكان الذى تريد عمل Reference منه
+4- افتح المشروع الخاص بك و قم بعمل Reference للمكتبه من المجلد الذى نقلتها له

@@ -1,41 +1,27 @@
-<html>
-  <head>
-    <meta http-equiv="Content-Language" content="ar">
-    <meta http-equiv="Content-Direction" content="rtl">
-  </head>
-  <body>
-
 # AN | C# Console Library
 
-AN Library هي مكتبة مفتوحة المصدر مصممة لتعزيز كفاءة الكود والسهولة في إنشاء تطبيقات الكونسول.
-___
+**AN Library** is an open-source C# library designed to enhance code efficiency and simplify the development of console applications.
 
-## عن المكتبة
-----------------
+---
 
-AN Library توفير مجموعة من الكلاسات التي تساعد على تسهيل كتابة الكود وتقليل التعقيد.
-___
+## 📌 About
 
-## الميزات
-------------
+AN Library provides a collection of useful classes that help reduce code complexity and accelerate development.
 
-*   **سهولة الاستخدام**: تصميم المكتبة لضمان سهولة الاستخدام والتفاعل معها.
-*   **الكلاسات المتقدمة**: مجموعة من الكلاسات التي توفر وظائف متقدمة لتعزيز كفاءة الكود.
-*   **الدعم المتواصل**: فريق الدعم المتواصل لتحل أي مشكلة قد تواجهها.
+---
 
-## الاستخدام
-------------
+## 🚀 Features
 
-### التثبيت
-*   **Any OS**:
+- **Easy to Use** – Designed with simplicity and usability in mind.
+- **Advanced Classes** – Includes various ready-to-use helper classes to improve your console apps.
+- **Continuous Support** – The project is actively maintained and open to feedback.
 
-1- قم بتحميل الحزمه
-```bash
-git clone https://github.com/AmrN0ur/AN-Library.git
-```
+---
 
-2- قم بعمل Compile للمكتبه بعد تعديل ما تريد.
+## 📦 Installation
 
-3- انقل ملف ال dll من ال مجلد bin الى المكان الذى تريد عمل Reference منه.
+**Any Operating System:**
 
-4- افتح المشروع الخاص بك و قم بعمل Reference للمكتبه من المجلد الذى نقلتها له.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmrN0ur/AN-Library.git
